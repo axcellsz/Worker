@@ -1,6 +1,3 @@
-// Menonaktifkan import yang tidak terpakai
-// import { connect } from "cloudflare:sockets";
-
 // ---------- CONFIG ----------
 const rootDomain = "";
 const serviceName = "";
@@ -1605,3 +1602,4 @@ export default {
         }
     }
 };
+
